@@ -7,7 +7,9 @@ The code to visualize the function iterates a 100x100 2-D array of "tiles"-- eac
 The calculator also visualizes trigonometric functions (using C++ library for them, because typing out MacLauren expansions is just what the library definitions is), but some functions (such as tan, arctan, and arccos) must be compressed to be visible on the graph. Thus, the calculator is more of a tool for visualization rather than a practical way to evaluate zeroes of functions/determine precise behavior.
 
 Development is ongoing. Some current bugs:
+
 Non-integer constants prints a blank screen
+
 No error handling for type mismatch
 
 
